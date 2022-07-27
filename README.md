@@ -1,10 +1,15 @@
-<h1>Hi! I'm Angela Londoño 😄</h1>
+<h1 align="center">Hi! I'm Angela Londoño 💻</h1>
 
 <p>
-   I'm Fronted developer.
+  A passionate frontend developer from Colombia
 </p>
 
-<hr>
+
+- 🔭 I’m currently working on **Learning Web Developer**
+
+- 🌱 I’m currently learning **React in Platzi**
+
+- 📫 How to reach me **londonoangelam@gmail.com**
 
 ## HARD SKILLS
 
